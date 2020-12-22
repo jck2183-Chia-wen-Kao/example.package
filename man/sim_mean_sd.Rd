@@ -22,4 +22,5 @@ This function produces a sample from a normal distribution mean and sample SD.
 \examples{
 sim_mean_sd(30)
 
+
 }

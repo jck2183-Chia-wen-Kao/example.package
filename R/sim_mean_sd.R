@@ -16,6 +16,7 @@
 #' @examples
 #' sim_mean_sd(30)
 #'
+#'
 sim_mean_sd = function(n, mu = 2, sigma = 3) {
 
     sim_data = tibble::tibble(
