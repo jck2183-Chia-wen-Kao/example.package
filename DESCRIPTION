@@ -16,3 +16,5 @@ Imports:
     dplyr,
     magrittr,
     tibble
+URL: https://github.com/jck2183-Chia-wen-Kao/example.package
+BugReports: https://github.com/jck2183-Chia-wen-Kao/example.package/issues
