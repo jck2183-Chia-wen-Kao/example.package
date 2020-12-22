@@ -15,7 +15,7 @@
 #' @examples
 #'
 #' sim_bern_mean(30)
-#' sim_bern_mean(n = 30, prob = .75)
+#' sim_bern_mean(n = 30, prob = .8)
 #'
 sim_bern_mean = function(n, prob = .5) {
 
